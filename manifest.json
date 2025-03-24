@@ -3,10 +3,10 @@
   "short_name": "Skrammite",
   "description": "Connect with friends, share what you're up to, or see what's new from others all over the world. Explore our community where you can feel free to be yourself and share everything from your daily moments to life's highlights.",
   "start_url": "/", 
-  "orientation": "portrait-primary",
+  "orientation": "portrait",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#0241cc",
+  "theme_color": "#0241cc",
   "icons": [
     {
       "src": "./icon192.png",
